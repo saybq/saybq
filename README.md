@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Clint Adrelle G. Dolor
+
+🎓 I'm a second-year information technology student and aspiring developer who enjoys learning and developing cool stuff with coding.
 
 <!--
 **saybq/saybq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
